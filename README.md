@@ -2,11 +2,9 @@
 
 > A voice-first executive assistant that **listens, decides, asks, and acts** — built on a strict Four-Pillar architecture with Human-in-the-Loop safety on every state-changing action.
 
-![Task Butler Dashboard](./images/dashboard.jpg)
+![Task Butler Dashboard](frontend/public/images/dashboard.png)
 
 Speak naturally, type when you have to, and let a LangGraph ReAct agent route your intent to one of four precision-engineered tools — never more, never less. The agent will pause and ask for your approval before it touches your inbox or your calendar, and execute autonomously when you just want focus to begin.
-
-![Task Butler Action](./images/action.jpg)
 
 ---
 
@@ -121,3 +119,6 @@ See [**LOCAL_SETUP.md**](./LOCAL_SETUP.md) for a flawless three-terminal walkthr
 ## License
 
 MIT.
+
+## Authors
+Built by Sumit
